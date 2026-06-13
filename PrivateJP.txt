@@ -1,0 +1,5 @@
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkpvaW4gdXMgSUQ6IE5peFZwIiwNCiAgImFkZCI6ICIxMjcuMC4wLjEiLA0KICAicG9ydCI6ICI4MDgwIiwNCiAgImlkIjogIjdjNWQyZDUyLTAxMWQtNDQ3ZS1iYzFmLTRmNjliZmI3YjA2NCIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAidGNwIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIiIsDQogICJwYXRoIjogIiIsDQogICJ0bHMiOiAiIiwNCiAgImFscG4iOiAiIiwNCiAgImluc2VjdXJlIjogIjAiDQp9
+
+vless://42f6f460-746e-4caa-b4ea-9837e1918e20@one.arakshoes.shop:8080?encryption=none&fp=random&pbk=HmXah2tyz6mv0C7MX6xuTpGh2OblAOdLMjK00pVT2Hc&security=reality&sid=da8633&sni=dl.google.com&spx=%2FC5PJT4E12ojCf45&type=tcp#ID%20%3A%20%40NixVp-Private
+
+vless://42f6f460-746e-4caa-b4ea-9837e1918e20@one.arakshoes.shop:443?encryption=none&fp=random&pbk=5CyPX0RpzwtUctnbDA2ONgkM5ny5uPPq4JE9V2hvDj0&security=reality&sid=e53d3c58d6f9&sni=chatgpt.com&spx=%2FbrqpyzNSguDrjnV&type=tcp#ID%20%3A%3A%20%40NixVp-Private
